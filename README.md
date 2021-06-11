@@ -33,7 +33,7 @@ O projeto está sendo desenvolvido usando:
 
 ## :information_source: Como usar
 
-Para clonar e usar essa aplicação, você precisará de [Git](https://git-scm.com) + [Node.js][nodejs] instalados em sua máquina
+Para clonar e usar essa aplicação, você precisará de [Git][git] + [Node.js][nodejs] instalados em sua máquina
 
 ### Instalar Front-end/Web
 
@@ -42,7 +42,7 @@ Para clonar e usar essa aplicação, você precisará de [Git](https://git-scm.c
 $ git clone https://github.com/VDRBreno/MultiStack1
 
 # Entre na pasta
-$ cd MultiStack1/frontend
+$ cd MultiStack1/web
 
 # Instale as dependências
 $ npm i
@@ -57,3 +57,5 @@ $ npm run dev
 [reactjs]: https://reactjs.org
 [nextjs]: https://nextjs.org
 [materialui]: https://material-ui.com/pt/
+[nodejs]: https://nodejs.org/en/
+[git]: https://git-scm.com
