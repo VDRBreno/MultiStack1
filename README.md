@@ -8,7 +8,7 @@ MultiStack é um workshop produzido por [TreinaWeb](https://github.com/treinaweb
 
 ### Aulas
 - Dia 1: Desenvolvimento Front-end com React e Next.js. 09/06 - :heavy_check_mark:
-- Dia 2: Avançando com React e Next.js. 11/06 - X
+- Dia 2: Avançando com React e Next.js. 11/06 - :heavy_check_mark:
 - Dia 3: Desenvolvimento com Laravel ou Django. 14/06 - X
 - Dia 4: Criação de APIs com Laravel ou Django. 15/06 - X
 - Dia 5: Desenvolvimento mobile com React Native. 16/06 - X

@@ -2,8 +2,11 @@ import Head from 'next/head';
 import { ThemeProvider } from '@material-ui/core';
 
 import Header from 'ui/components/surfaces/Header';
+import Footer from 'ui/components/Footer';
 
 import theme from 'ui/themes/theme';
+
+import { AppContainer } from '@styles/pages/_app.style';
 
 import '@styles/globals.css'
 
@@ -18,12 +21,15 @@ function MyApp({ Component, pageProps }) {
         
         <link href="/fonts/tw-icons/css/treinaweb-icons.css" rel="stylesheet"/>
 
-        <title>e-diarist</title>
+        <title>e-diaristas</title>
       </Head>
 
       <ThemeProvider theme={theme}>
-        <Header />
-        <Component {...pageProps} />
+        <AppContainer>
+          <Header />
+          <Component {...pageProps} />
+          <Footer />
+        </AppContainer>
       </ThemeProvider>
     </>
   );
