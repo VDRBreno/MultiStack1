@@ -37,8 +37,6 @@ O projeto está sendo desenvolvido usando:
 
 Para clonar e usar essa aplicação, você precisará de [Git][git] + [Node.js][nodejs] instalados em sua máquina
 
-> Para usar a aplicação você deve clonar este repositório
-
 ```bash
 # Clone este repositório
 $ git clone https://github.com/VDRBreno/MultiStack1
