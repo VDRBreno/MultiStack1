@@ -23,6 +23,8 @@ export default function useIndex() {
     try {
 
       const { data } = await ApiService.get<ApiServiceBuscaCepProps>(`/api/diaristas-cidade?cep=${cep.replace(/\D/g, '')}`);
+
+      setDiaristas(data.diaristas);
       setDiaristasRestantes(data.quantidade_diaristas);
 
     } catch(err) {

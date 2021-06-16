@@ -9,8 +9,8 @@ MultiStack é um workshop produzido por [TreinaWeb](https://github.com/treinaweb
 ### Aulas
 - Dia 1: Desenvolvimento Front-end com React e Next.js. 09/06 - :heavy_check_mark:
 - Dia 2: Avançando com React e Next.js. 11/06 - :heavy_check_mark:
-- Dia 3: Desenvolvimento com Laravel ou Django. :heavy_check_mark:
-- Dia 4: Criação de APIs com Laravel ou Django. 15/06 - X
+- Dia 3: Desenvolvimento com Laravel ou Django. 14/06 - :heavy_check_mark:
+- Dia 4: Criação de APIs com Laravel ou Django. 15/06 - :heavy_check_mark:
 - Dia 5: Desenvolvimento mobile com React Native. 16/06 - X
 
 ## 💻 Projeto
@@ -63,7 +63,7 @@ $ npm run dev
     <img alt="FrontendPreview" src="./preview/website.png" />
 </h1>
 
-<!-- ### Instalar Back-end/Server (Ainda não completo)
+### Instalar Back-end/Server
 
 ```bash
 # Você precisa instalar Python e Django na sua máquina antes
@@ -71,11 +71,11 @@ $ npm run dev
 # Entre na pasta
 $ cd MultiStack1/server/ediaristas
 
-# Iniciar CRUD com DB
+# Iniciar
 $ python manage.py runserver
 
 # rodando em localhost:8000
-``` -->
+```
 
 [typescript]: https://www.typescriptlang.org/
 [reactjs]: https://reactjs.org
